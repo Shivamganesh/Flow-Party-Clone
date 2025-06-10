@@ -4,7 +4,7 @@ An interactive, vibrant web experience inspired by the award-winning [Flow Party
 
 ## 🎨 Live Demo
 
-🔗 [View Live Site](https://your-live-link.com)
+🔗 [View Live Site]( https://shivamganesh.github.io/Flow-Party-Clone/)
 
 
 > A seamless blend of motion, interaction, and visual storytelling — crafted for frontend enthusiasts.
